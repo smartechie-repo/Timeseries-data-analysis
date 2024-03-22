@@ -939,7 +939,7 @@ export2pdf(fig, 'c1-line_graph_viz.pdf')
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_18_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_18_0.png)
     
 
 
@@ -975,7 +975,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_19_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_19_0.png)
     
 
 
@@ -1035,7 +1035,7 @@ export2pdf(fig, 'c1-line_graph_viz.pdf')
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_22_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_22_0.png)
     
 
 
@@ -1071,7 +1071,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_23_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_23_0.png)
     
 
 
@@ -1474,7 +1474,7 @@ plt.show(block=False)
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_26_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_26_0.png)
     
 
 
@@ -1494,7 +1494,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_27_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_27_0.png)
     
 
 
@@ -1601,7 +1601,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_33_1.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_33_1.png)
     
 
 
@@ -1627,7 +1627,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_35_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_35_0.png)
     
 
 
@@ -2424,7 +2424,7 @@ revenue_ts_decomposed.seasonal.plot()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_45_1.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_45_1.png)
     
 
 
@@ -2453,7 +2453,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_47_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_47_0.png)
     
 
 
@@ -2477,7 +2477,7 @@ plt.plot(revenue_ts_decomposed.trend)
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_49_1.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_49_1.png)
     
 
 
@@ -2507,7 +2507,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_51_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_51_0.png)
     
 
 
@@ -2526,7 +2526,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_53_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_53_0.png)
     
 
 
@@ -2553,7 +2553,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_54_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_54_0.png)
     
 
 
@@ -2570,14 +2570,14 @@ revenue_ts_decomposed.plot()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_56_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_56_0.png)
     
 
 
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_56_1.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_56_1.png)
     
 
 
@@ -2604,7 +2604,7 @@ plt.show(block=False)
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_58_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_58_0.png)
     
 
 
@@ -2788,7 +2788,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_65_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_65_0.png)
     
 
 
@@ -2801,14 +2801,14 @@ results.plot_diagnostics(figsize=(16, 8))
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_66_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_66_0.png)
     
 
 
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_66_1.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_66_1.png)
     
 
 
@@ -2832,7 +2832,7 @@ plt.plot(forecasted.predicted_mean)
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_68_1.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_68_1.png)
     
 
 
@@ -3000,7 +3000,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_75_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_75_0.png)
     
 
 
@@ -3450,7 +3450,7 @@ plt.show(block=False)
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_82_1.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_82_1.png)
     
 
 
@@ -3492,7 +3492,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_84_1.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_84_1.png)
     
 
 
@@ -3636,7 +3636,7 @@ plt.show()
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_91_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_91_0.png)
     
 
 
@@ -3651,14 +3651,14 @@ results.plot_diagnostics(figsize=(12, 8))
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_93_0.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_93_0.png)
     
 
 
 
 
     
-![png](D213_Task1_AdvanceDataMining_all_in_one_files/D213_Task1_AdvanceDataMining_all_in_one_93_1.png)
+![png](images/D213_Task1_AdvanceDataMining_all_in_one_93_1.png)
     
 
 
